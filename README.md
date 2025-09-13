@@ -6,6 +6,10 @@ A short (≤2 min) video demonstrating the functionality is included in the repo
 ---
 
 
+
+https://github.com/user-attachments/assets/0d0d630f-b285-4c7f-8b98-8c9edb220798
+
+
 # 📂 Next.js File Explorer – Interview Task
 
 This project is my submission for the *HAD Communications & IT Frontend Interview Task*.  
